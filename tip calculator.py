@@ -6,6 +6,7 @@ bill = float(input("What was the total bill ? $"))
 # Tip % you want to give
 tip = int(input("What percentage would you like to give ? "))
 
+# Bill will be split in how many persons
 people = int(input("How many people to split the bill ? "))
 
 tip_as_percent = tip / 100
